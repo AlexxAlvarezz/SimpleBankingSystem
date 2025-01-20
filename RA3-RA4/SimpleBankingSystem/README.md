@@ -2,7 +2,11 @@
 
 ## Descripció
 
-Escriu aquí una breu descripció del que fa el programa.
+Aquest codi crea una cuenta bancaria amb el nom del titular, el número de compte i el saldo inicial. 
+
+Realitza operacions de retirada e ingres, fent també que si hi ha algún error surti un missatge d'avis.
+
+Finalment mostra el saldo disponible de la cuenta.
 
 ## Funcionalitats
 
